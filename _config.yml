@@ -1,2 +1,3 @@
 name: nguon khoeun, web dev learn
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
